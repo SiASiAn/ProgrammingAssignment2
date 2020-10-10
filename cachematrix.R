@@ -1,4 +1,4 @@
-## Caching inverser of matrix
+## Caching inverser of matrix (assignment week 3)
 
 ## creates matrix that can cache inverse
 
